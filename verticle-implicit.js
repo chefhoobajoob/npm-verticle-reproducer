@@ -1,0 +1,2 @@
+require('myFlatModule');
+require('myNestedModule');

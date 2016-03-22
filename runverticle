@@ -1,4 +1,0 @@
-#!/bin/bash
-export VERTX_HOME=~/vert.x-3.1.0
-export NODE_PATH=./node_modules
-$VERTX_HOME/bin/vertx run verticle.js
